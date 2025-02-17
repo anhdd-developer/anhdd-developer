@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <!--https://www.gitanimals.org/en_US/mypage-->
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anhdd-developer&utm_content=line">
+<a href="https://www.gitanimals.org/">
   <img
-    src="https://render.gitanimals.org/lines/anhdd-developer"
+    src="https://render.gitanimals.org/guilds/671643895035339143/draw"
     width="1000"
-    height="200"
+    height="300"
+    alt="gitanimals"
   />
 </a>
