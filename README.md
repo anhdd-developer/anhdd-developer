@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://www.gitanimals.org/">
   <img
     src="https://render.gitanimals.org/guilds/671643895035339143/draw"
-    width="1000"
+    width="600"
     height="300"
     alt="gitanimals"
   />
